@@ -4,7 +4,7 @@
 
 ## 成员名单（请各位加上自己的名字与github昵称）
 
-詹炜程(ghohoj)，
+詹炜程(ghohoj)，徐飞扬(HareetX)，
 
 
 ## 进度
