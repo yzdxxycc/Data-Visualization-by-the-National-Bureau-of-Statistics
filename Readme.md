@@ -29,7 +29,17 @@
 
 
 随机大冤种兼职:
-- 网站测试，完成老师的各种报告(《软件开发计划书》,《软件需求规格说明书》,《软件设计说明书》,《软件测试计划书》,技术性部分由每个部分的负责人编写，最后负责整理):登录overleaf,在overleaf文件中完成文件: https://www.overleaf.com/3782376419wcqjjpwnfhgj
+- 网站测试，完成老师的各种报告(技术性部分由每个部分的负责人编写，最后负责整理):登录overleaf,在overleaf文件中完成文件。
+
+## 提交报告
+
+《软件开发计划书》：https://www.overleaf.com/3782376419wcqjjpwnfhgj
+
+《软件需求规格说明书》：https://cn.overleaf.com/7359867584xpqzxtzbnsxy
+
+《软件设计说明书》：
+
+《软件测试计划书》：
 
 ## 框架划分
 
